@@ -1,0 +1,6 @@
+Rank 	 Medio 	 Total de Ingresos 	 Porcentaje
+1 	 Sea 	 100530622000 	 46.61 %
+2 	 Rail 	 43628043000 	 20.23 %
+3 	 Air 	 38262147000 	 17.74 %
+
+Representan el 84.57 % de ingresos en este rubro

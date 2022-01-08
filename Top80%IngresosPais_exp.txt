@@ -1,0 +1,11 @@
+Rank 	 Pais 	 Total de Ingresos 	 Porcentaje
+1 	 China 	 32977046000 	 20.59 %
+2 	 France 	 18614332000 	 11.62 %
+3 	 USA 	 18355306000 	 11.46 %
+4 	 South Korea 	 14621146000 	 9.13 %
+5 	 Russia 	 13223000000 	 8.26 %
+6 	 Japan 	 11948976000 	 7.46 %
+7 	 Germany 	 11343233000 	 7.08 %
+8 	 Canada 	 10684000000 	 6.67 %
+
+Representan el 82.27 % de ingresos en este rubro

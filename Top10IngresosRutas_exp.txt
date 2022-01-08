@@ -1,0 +1,13 @@
+Rank 	 Ruta 	 Total de Ingresos 	 Porcentaje
+1 	 China-Mexico 	 12250000000 	 7.65 %
+2 	 Canada-Mexico 	 8450000000 	 5.28 %
+3 	 South Korea-Vietnam 	 6877007000 	 4.29 %
+4 	 France-Belgium 	 5538069000 	 3.46 %
+5 	 France-United Kingdom 	 5427000000 	 3.39 %
+6 	 China-South Korea 	 4790000000 	 2.99 %
+7 	 USA-Mexico 	 4710000000 	 2.94 %
+8 	 South Korea-Japan 	 4594000000 	 2.87 %
+9 	 Germany-Italy 	 4541000000 	 2.84 %
+10 	 China-Germany 	 4090000000 	 2.55 %
+
+Representan el 38.25 % de ingresos en este rubro

@@ -1,0 +1,10 @@
+Rank 	 Pais 	 Total de Ingresos 	 Porcentaje
+1 	 Vietnam 	 52000000 	 21.85 %
+2 	 Russia 	 44000000 	 18.49 %
+3 	 Malaysia 	 30000000 	 12.61 %
+4 	 China 	 24000000 	 10.08 %
+5 	 Spain 	 18000000 	 7.56 %
+6 	 Germany 	 15000000 	 6.3 %
+7 	 South Korea 	 15000000 	 6.3 %
+
+Representan el 83.19 % de ingresos en este rubro

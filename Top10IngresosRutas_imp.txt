@@ -1,0 +1,13 @@
+Rank 	 Ruta 	 Total de Ingresos 	 Porcentaje
+1 	 Singapore-Thailand 	 4017000000 	 7.23 %
+2 	 Japan-Mexico 	 3918000000 	 7.06 %
+3 	 China-Thailand 	 3831000000 	 6.9 %
+4 	 Malaysia-Thailand 	 3482000000 	 6.27 %
+5 	 China-United Arab Emirates 	 3357000000 	 6.05 %
+6 	 China-Japan 	 3237000000 	 5.83 %
+7 	 Mexico-USA 	 2365000000 	 4.26 %
+8 	 Japan-United Arab Emirates 	 2238000000 	 4.03 %
+9 	 Spain-Germany 	 2044000000 	 3.68 %
+10 	 Germany-Mexico 	 1804000000 	 3.25 %
+
+Representan el 54.55 % de ingresos en este rubro
